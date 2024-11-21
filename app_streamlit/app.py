@@ -9,14 +9,10 @@ import os
 import joblib
 from joblib import load
 
-# st.write("scikit-learn version:", sklearn.__version__)
-# st.write("numpy version:", numpy.__version__)
-# st.write("joblib version:", joblib.__version__)
-
 
 # Construir la ruta absoluta del modelo
 current_dir = os.path.dirname(os.path.abspath(__file__))
-st.write("Archivos en el directorio actual:", os.listdir(current_dir))
+# st.write("Archivos en el directorio actual:", os.listdir(current_dir))
 
 # Intentar cargar el modelo
 try:
