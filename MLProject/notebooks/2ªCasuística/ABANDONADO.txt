@@ -1,0 +1,4 @@
+El intento fue abandonado tras unos 11 intentos con ChatGPT que seguia manteniendo las proporciones. 
+Tambien intentamos imputar nuevos valores a target una vez pero tampoco resultaba.
+
+En el futuro probaremos de njuevo con un Dataset mejor distribuido
